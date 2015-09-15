@@ -42,10 +42,16 @@
     <div data-role="content" class="ui-content">
       <h3>今天大盘跌了2.96,今后走势如何，就看能否击穿20日均线</h3>
       <h5 style="color: royalblue">来源：新闻早晚报</h5>
-      <p><label>搜索:<input type="search" /></label></p>
+      <p><label class="ui-controlgroup-label">搜索:<input type="search" /></label></p>
       <div>
-          <input type="checkbox" name="user_type" value="已登录" checked><br/>
-          <input type="checkbox" name="user_type2" value="游客" >
+          <form>
+                  <label>
+                      <input type="checkbox" name="checkbox-0 ">游客
+                  </label>
+                  <label>
+                      <input type="checkbox" name="checkbox-0 ">已登录
+                  </label>
+          </form>
       </div>
 
         <button class="show-page-loading-msg" data-theme="a" data-textonly="false" data-textvisible="true" data-msgtext="Loading theme a" data-inline="true">A</button>

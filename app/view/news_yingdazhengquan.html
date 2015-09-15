@@ -32,29 +32,32 @@
 <body>
 <div data-role="page" id="e1" name="e1">
     <script type="text/javascript">
-        $(function() {
-            $("#showBtn").click(function() {
-                showLoading();
+        $( document ).on( "click", ".show-page-loading-msg", function() {
+            var $this = $( this ),
+                    theme = $this.jqmData( "theme" ) || $.mobile.loader.prototype.options.theme,
+                    msgText = $this.jqmData( "msgtext" ) || $.mobile.loader.prototype.options.text,
+                    textVisible = $this.jqmData( "textvisible" ) || $.mobile.loader.prototype.options.textVisible,
+                    textonly = !!$this.jqmData( "textonly" );
+            html = $this.jqmData( "html" ) || "";
+            $.mobile.loading( "show", {
+                text: msgText,
+                textVisible: textVisible,
+                theme: theme,
+                textonly: textonly,
+                html: html
             });
-            $("#hideBtn").click(function() {
-                hideLoading();
-            });
-        });
-        function showLoading() {
-            $.mobile.loadingMessageTextVisible = true;
-            $.mobile.showPageLoadingMsg("a", "加载中...");
-        }
-        function hideLoading() {
-            $.mobile.hidePageLoadingMsg();
-        }
+        })
+                .on( "click", ".hide-page-loading-msg", function() {
+                    $.mobile.loading( "hide" );
+                });
     </script>
     <header data-role="header"><h5>个股页面</h5></header>
     <div data-role="content" class="ui-content">
         <h3>英大证券，今日下跌-2.98</h3>
-        <button id="showBtn">
+        <button class="show-page-loading-msg" id="showBtn">
             显示Loading
         </button>
-        <button id="hideBtn">
+        <button class="hide-page-loading-msg" id="hideBtn">
             隐藏Loading
         </button>
     </div>
