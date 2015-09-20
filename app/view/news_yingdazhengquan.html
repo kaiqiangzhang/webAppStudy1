@@ -3,20 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <title>股票行情：英大证券(000045)</title>
-    <link href="/lib/css/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
-    <script src="/lib/js/jquery.js" type="text/javascript" ></script>
-    <script src="/lib/js/jquery.mobile-1.4.5.js" type="text/javascript"></script>
+    <link href="../_assets/css/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="../_assets/css/themes/default/jquery.mobile-1.4.5.min.css" type="text/css">
+    <link rel="stylesheet" href="../_assets/css/news_yingdazhengquan.css" type="text/css"/>
+    <script src="../_assets/js/jquery.js" type="text/javascript"></script>
+    <script src="../_assets/js/jquery.mobile-1.4.5.js" type="text/javascript"></script>
     <script type="text/javascript">
-        $('#e1').live('pagebeforecreate',function(event){alert('Thispagewasjustinsertedintothedom!');});
+        $('#e1').live('pagebeforecreate', function (event) {
+            alert('Thispagewasjustinsertedintothedom!');
+        });
 
 
     </script>
     <script type="text/javascript">
-        $(function() {
-            $("#showBtn").click(function() {
+        $(function () {
+            $("#showBtn").click(function () {
                 showLoading();
             });
-            $("#hideBtn").click(function() {
+            $("#hideBtn").click(function () {
                 hideLoading();
             });
         });
@@ -28,18 +32,23 @@
             $.mobile.hidePageLoadingMsg();
         }
     </script>
-</head>
-<body>
-<div data-role="page" id="e1" name="e1">
+    <script id="popup-arrow-script">
+
+        $.mobile.document.on("click", "#open-popupArrow", function (evt) {
+            $("#popupArrow").popup("open", {x: evt.pageX, y: evt.pageY});
+            evt.preventDefault();
+        });
+
+    </script>
     <script type="text/javascript">
-        $( document ).on( "click", ".show-page-loading-msg", function() {
-            var $this = $( this ),
-                    theme = $this.jqmData( "theme" ) || $.mobile.loader.prototype.options.theme,
-                    msgText = $this.jqmData( "msgtext" ) || $.mobile.loader.prototype.options.text,
-                    textVisible = $this.jqmData( "textvisible" ) || $.mobile.loader.prototype.options.textVisible,
-                    textonly = !!$this.jqmData( "textonly" );
-            html = $this.jqmData( "html" ) || "";
-            $.mobile.loading( "show", {
+        $(document).on("click", ".show-page-loading-msg", function () {
+            var $this = $(this),
+                    theme = $this.jqmData("theme") || $.mobile.loader.prototype.options.theme,
+                    msgText = $this.jqmData("msgtext") || $.mobile.loader.prototype.options.text,
+                    textVisible = $this.jqmData("textvisible") || $.mobile.loader.prototype.options.textVisible,
+                    textonly = !!$this.jqmData("textonly");
+            html = $this.jqmData("html") || "";
+            $.mobile.loading("show", {
                 text: msgText,
                 textVisible: textVisible,
                 theme: theme,
@@ -47,10 +56,14 @@
                 html: html
             });
         })
-                .on( "click", ".hide-page-loading-msg", function() {
-                    $.mobile.loading( "hide" );
+                .on("click", ".hide-page-loading-msg", function () {
+                    $.mobile.loading("hide");
                 });
     </script>
+</head>
+<body>
+<div data-role="page" id="e1" name="e1">
+
     <header data-role="header"><h5>个股页面</h5></header>
     <div data-role="content" class="ui-content">
         <h3>英大证券，今日下跌-2.98</h3>
@@ -60,6 +73,55 @@
         <button class="hide-page-loading-msg" id="hideBtn">
             隐藏Loading
         </button>
+        <a href="#popupBasic" data-rel="popup" class="ui-btn ui-corner-all ui-shadow ui-btn-inline"
+           data-transition="pop">Basic Popup</a>
+
+        <div data-role="popup" id="popupBasic">
+            <p>请输入身份证号</p>
+        </div>
+
+        <p>A paragraph with a tooltip. <a href="#popupInfo" data-rel="popup" data-transition="pop"
+                                          class="my-tooltip-btn ui-btn ui-alt-icon ui-nodisc-icon ui-btn-inline ui-icon-info ui-btn-icon-notext "
+                                          title="Learn more">Learn more</a></p>
+
+        <div data-role="popup" id="popupInfo" class="ui-content" data-theme="a" style="max-width:350px;">
+            <a href="#" data-rel="back"
+               class="ui-btn ui-corner-all ui-shadow ui-btn-a ui-icon-delete ui-btn-icon-notext ui-btn-right">Close</a>
+              
+            <p style="color: darkgreen">Here is a <strong><h4>tiny popup</h4></strong> being used like a tooltip. The
+                text will wrap to multiple lines as needed.
+            </p>
+        </div>
+        <!--lightBox -->
+
+        <a href="#popupParis" data-rel="popup" data-position-to="window" data-transition="fade"><img class="popphoto"
+                                                                                                     src="../_assets/img/paris.jpg"
+                                                                                                     alt="Paris, France"
+                                                                                                     style="width:30%"></a>
+        <a href="#popupSydney" data-rel="popup" data-position-to="window" data-transition="fade"><img class="popphoto"
+                                                                                                      src="../_assets/img/sydney.jpg"
+                                                                                                      alt="Sydney, Australia"
+                                                                                                      style="width:30%"></a>
+        <a href="#popupNYC" data-rel="popup" data-position-to="window" data-transition="fade"><img class="popphoto"
+                                                                                                   src="../_assets/img/newyork.jpg"
+                                                                                                   alt="New York, USA"
+                                                                                                   style="width:30%"></a>
+
+        <div data-role="popup" id="popupParis" data-overlay-theme="b" data-theme="b" data-corners="false">
+                <a href="#" data-rel="back"
+                   class="ui-btn ui-corner-all ui-shadow ui-btn-a ui-icon-delete ui-btn-icon-notext ui-btn-right">Close</a><img
+                class="popphoto" src="../_assets/img/paris.jpg" style="max-height:512px;" alt="Paris, France">
+        </div>
+        <div data-role="popup" id="popupSydney" data-overlay-theme="b" data-theme="b" data-corners="false">
+                <a href="#" data-rel="back"
+                   class="ui-btn ui-corner-all ui-shadow ui-btn-a ui-icon-delete ui-btn-icon-notext ui-btn-right">Close</a><img
+                class="popphoto" src="../_assets/img/sydney.jpg" style="max-height:512px;" alt="Sydney, Australia">
+        </div>
+        <div data-role="popup" id="popupNYC" data-overlay-theme="b" data-theme="b" data-corners="false">
+                <a href="#" data-rel="back"
+                   class="ui-btn ui-corner-all ui-shadow ui-btn-a ui-icon-delete ui-btn-icon-notext ui-btn-right">Close</a><img
+                class="popphoto" src="../_assets/img/newyork.jpg" style="max-height:512px;" alt="New York, USA">
+        </div>
     </div>
     <footer data-role="footer"><h5>@ 棕桐树科技有限公司</h5></footer>
 </div>

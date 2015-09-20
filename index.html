@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>新闻首页</title>
-    <link href="lib/css/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
-    <link rel="stylesheet" href="lib/css/themes/default/jquery.mobile-1.4.5.min.css">
-    <script src="lib/js/jquery.js" type="text/javascript"></script>
-    <script src="lib/js/jquery.mobile-1.4.5.js" type="text/javascript"></script>
+    <link href="app/_assets/css/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="app/_assets/css/themes/default/jquery.mobile-1.4.5.min.css">
+
+    <script src="app/_assets/js/jquery.js" type="text/javascript"></script>
+    <script src="app/_assets/js/jquery.mobile-1.4.5.js" type="text/javascript"></script>
     <script type="text/javascript">
         $(function () {//将当前文档写入缓存中,使用页面缓存的功能将会使DOM内容变大，可能导致某些浏览器打开的速度变得缓慢。因此需要及时清理缓存
             $.mobile.page.prototype.options.domCache = true;
@@ -43,7 +44,7 @@
         <h3>今天大盘跌了2.96,今后走势如何，就看能否击穿20日均线</h3>
         <h5 style="color: royalblue">来源：新闻早晚报</h5>
 
-        <p><label class="ui-controlgroup-label">搜索:<input type="search"/></label></p>
+        <p><label class="ui-controlgroup-label">搜索s:</label><input type="search" class="ui-input-search"/></p>
 
         <div>
             <form>
@@ -94,7 +95,7 @@
             </em>
             <em style="float: right;padding-right: 5px">
                 <!--jQuery是通过Ajax的方式加载页面，页面是被请求后注入当前的DOM结构中-->
-                <a href="app/view/news_yingdazhengquan.html" data-transition="flip" data-prefetch="true">页面预加载</a>
+                <a href="app/view/news_yingdazhengquan.html" data-transition="flip" data-prefetch="true" data-ajax="false">页面预加载</a>
             </em>
         </p>
     </div>

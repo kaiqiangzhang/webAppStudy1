@@ -2,7 +2,285 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66f25c72-2bc4-4183-8c4c-cf0341a5221e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/glyphish-icons/09-chat2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/glyphish-icons/100-coffee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/glyphish-icons/18-envelope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/glyphish-icons/19-gear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/glyphish-icons/21-skull.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/glyphish-icons/30-key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/glyphish-icons/34-coffee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/glyphish-icons/88-beermug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-af.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-ag.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-bb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-bk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-hc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-k.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-mg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-ok.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-p.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-rh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-ws.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/album-xx.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/bg-pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/bike.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/blackberry_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/bmw-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/bmw.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/buenosaires.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/capetown.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/devices.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/fi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/firefox-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/firefox_os.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/galaxy_express.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/gb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/gf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/jquery-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/landrover-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/landrover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/lumia_800.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/newyork.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/nexus_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/paris.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/phone_galaxy3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/phone_iphone5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/phone_lumia920.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/phone_onex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/photo-landscape.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/photo-portrait.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/photo-run.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/seoul.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/sydney.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/tesla-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/tesla.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/tizen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/img/glyphish-icons/Read me first - license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/_assets/css/news_yingdazhengquan.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/news_yingdazhengquan.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/jquery.mobile-1.4.5.css" afterPath="$PROJECT_DIR$/app/_assets/css/jquery.mobile-1.4.5.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/jquery.mobile-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/jquery.mobile-1.4.5.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/jquery.mobile.theme-1.4.5.css" afterPath="$PROJECT_DIR$/app/_assets/css/jquery.mobile.theme-1.4.5.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/jquery.mobile.theme-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/jquery.mobile.theme-1.4.5.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/ajax-loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/action-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/action-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/action-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/action-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/alert-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/alert-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/alert-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/alert-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-d-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-d-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-d-l-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-d-l-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-d-l-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-d-l-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-d-r-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-d-r-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-d-r-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-d-r-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-d-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-d-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-l-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-l-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-l-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-l-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-r-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-r-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-r-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-r-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-u-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-u-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-u-l-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-u-l-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-u-l-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-u-l-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-u-r-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-u-r-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-u-r-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-u-r-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/arrow-u-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/arrow-u-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/audio-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/audio-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/audio-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/audio-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/back-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/back-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/back-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/back-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/bars-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/bars-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/bars-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/bars-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/bullets-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/bullets-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/bullets-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/bullets-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/calendar-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/calendar-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/calendar-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/calendar-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/camera-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/camera-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/camera-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/camera-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/carat-d-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/carat-d-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/carat-d-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/carat-d-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/carat-l-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/carat-l-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/carat-l-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/carat-l-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/carat-r-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/carat-r-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/carat-r-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/carat-r-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/carat-u-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/carat-u-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/carat-u-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/carat-u-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/check-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/check-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/check-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/check-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/clock-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/clock-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/clock-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/clock-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/cloud-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/cloud-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/cloud-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/cloud-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/comment-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/comment-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/comment-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/comment-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/delete-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/delete-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/delete-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/delete-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/edit-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/edit-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/edit-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/edit-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/eye-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/eye-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/eye-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/eye-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/forbidden-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/forbidden-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/forbidden-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/forbidden-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/forward-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/forward-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/forward-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/forward-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/gear-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/gear-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/gear-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/gear-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/grid-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/grid-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/grid-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/grid-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/heart-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/heart-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/heart-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/heart-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/home-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/home-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/home-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/home-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/info-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/info-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/info-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/info-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/location-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/location-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/location-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/location-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/lock-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/lock-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/lock-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/lock-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/mail-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/mail-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/mail-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/mail-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/minus-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/minus-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/minus-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/minus-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/navigation-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/navigation-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/navigation-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/navigation-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/phone-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/phone-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/phone-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/phone-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/plus-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/plus-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/plus-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/plus-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/power-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/power-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/power-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/power-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/recycle-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/recycle-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/recycle-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/recycle-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/refresh-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/refresh-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/refresh-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/refresh-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/search-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/search-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/search-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/search-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/shop-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/shop-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/shop-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/shop-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/star-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/star-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/star-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/star-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/tag-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/tag-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/tag-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/tag-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/user-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/user-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/user-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/user-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/video-black.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/video-black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-png/video-white.png" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-png/video-white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/action-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/action-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/action-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/action-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/alert-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/alert-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/alert-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/alert-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-d-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-d-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-d-l-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-d-l-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-d-l-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-d-l-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-d-r-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-d-r-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-d-r-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-d-r-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-d-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-d-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-l-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-l-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-l-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-l-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-r-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-r-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-r-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-r-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-u-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-u-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-u-l-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-u-l-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-u-l-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-u-l-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-u-r-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-u-r-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-u-r-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-u-r-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/arrow-u-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/arrow-u-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/audio-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/audio-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/audio-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/audio-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/back-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/back-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/back-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/back-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/bars-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/bars-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/bars-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/bars-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/bullets-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/bullets-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/bullets-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/bullets-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/calendar-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/calendar-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/calendar-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/calendar-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/camera-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/camera-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/camera-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/camera-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/carat-d-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/carat-d-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/carat-d-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/carat-d-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/carat-l-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/carat-l-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/carat-l-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/carat-l-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/carat-r-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/carat-r-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/carat-r-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/carat-r-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/carat-u-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/carat-u-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/carat-u-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/carat-u-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/check-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/check-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/check-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/check-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/clock-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/clock-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/clock-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/clock-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/cloud-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/cloud-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/cloud-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/cloud-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/comment-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/comment-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/comment-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/comment-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/delete-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/delete-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/delete-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/delete-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/edit-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/edit-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/edit-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/edit-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/eye-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/eye-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/eye-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/eye-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/forbidden-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/forbidden-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/forbidden-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/forbidden-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/forward-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/forward-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/forward-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/forward-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/gear-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/gear-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/gear-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/gear-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/grid-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/grid-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/grid-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/grid-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/heart-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/heart-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/heart-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/heart-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/home-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/home-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/home-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/home-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/info-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/info-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/info-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/info-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/location-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/location-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/location-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/location-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/lock-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/lock-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/lock-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/lock-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/mail-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/mail-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/mail-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/mail-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/minus-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/minus-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/minus-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/minus-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/navigation-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/navigation-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/navigation-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/navigation-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/phone-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/phone-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/phone-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/phone-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/plus-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/plus-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/plus-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/plus-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/power-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/power-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/power-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/power-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/recycle-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/recycle-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/recycle-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/recycle-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/refresh-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/refresh-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/refresh-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/refresh-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/search-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/search-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/search-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/search-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/shop-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/shop-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/shop-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/shop-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/star-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/star-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/star-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/star-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/tag-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/tag-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/tag-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/tag-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/user-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/user-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/user-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/user-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/video-black.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/video-black.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/images/icons-svg/video-white.svg" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/images/icons-svg/video-white.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/jquery.mobile-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/_assets/css/jquery.mobile-1.4.5.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/jquery.mobile.external-png-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/jquery.mobile.external-png-1.4.5.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/jquery.mobile.icons-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/jquery.mobile.icons-1.4.5.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/jquery.mobile.inline-png-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/jquery.mobile.inline-png-1.4.5.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/jquery.mobile.inline-svg-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/jquery.mobile.inline-svg-1.4.5.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/jquery.mobile.structure-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/_assets/css/themes/default/jquery.mobile.structure-1.4.5.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/css/themes/default/jquery.mobile.theme-1.4.5.min.css" afterPath="$PROJECT_DIR$/app/_assets/css/jquery.mobile.theme-1.4.5.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/js/jquery.js" afterPath="$PROJECT_DIR$/app/_assets/js/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/js/jquery.min.js" afterPath="$PROJECT_DIR$/app/_assets/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/js/jquery.mobile-1.4.5.js" afterPath="$PROJECT_DIR$/app/_assets/js/jquery.mobile-1.4.5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/js/jquery.mobile-1.4.5.min.js" afterPath="$PROJECT_DIR$/app/_assets/js/jquery.mobile-1.4.5.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/js/jquery.mobile-1.4.5.min.map" afterPath="$PROJECT_DIR$/app/_assets/js/jquery.mobile-1.4.5.min.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/news_yingdazhengquan.html" afterPath="$PROJECT_DIR$/app/view/news_yingdazhengquan.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NewsApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,41 +301,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/js/jquery.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5600" column="4" selection-start-line="5600" selection-start-column="4" selection-end-line="5600" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="news_yingdazhengquan.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/view/news_yingdazhengquan.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.038462">
-              <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-              <folding />
+            <state vertical-scroll-proportion="-3.528302">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="news_yingdazhengquan.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news_yingdazhengquan.html">
+      <file leaf-file-name="news_yingdazhengquan.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/_assets/css/news_yingdazhengquan.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.153846">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="28.846153">
-              <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.8887015">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
               <folding>
                 <element signature="n#style#0;n#h5#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -69,17 +346,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1098546">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,9 +372,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/news_yingdazhengquan.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lib/css/mycss.css" />
+        <option value="$PROJECT_DIR$/app/_assets/css/news_yingdazhengquan.css" />
         <option value="$PROJECT_DIR$/app/view/news_yingdazhengquan.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -158,42 +444,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewsApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewsApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewsApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewsApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -216,6 +466,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -227,16 +539,18 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="last_opened_file_path" value="/usr/local/bin/git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/_assets" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/view" />
+      <recent name="$PROJECT_DIR$/_assets" />
       <recent name="$PROJECT_DIR$/lib/css" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/lib/js" />
-      <recent name="$PROJECT_DIR$/lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib/js" />
@@ -276,6 +590,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="1">
@@ -288,6 +608,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="66f25c72-2bc4-4183-8c4c-cf0341a5221e" name="Default" comment="" />
@@ -303,20 +626,20 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921174" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -328,103 +651,65 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/style/style.css">
+    <entry file="file://$PROJECT_DIR$/app/view/news_yingdazhengquan.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.manifest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/css/jquery.mobile.theme-1.4.5.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/js/jquery.mobile-1.4.5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1442292633000" expanded="true" signature="-1:-1" placeholder="..." />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/js/jquery.mobile-1.4.5.min.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1442292633000" expanded="true" signature="-1:-1" placeholder="..." />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#em#0;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#em#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#em#2;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/css/jquery.mobile-1.4.5.css">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/css/jquery.mobile.theme-1.4.5.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/css/jquery.mobile-1.4.5.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5600" column="4" selection-start-line="5600" selection-start-column="4" selection-end-line="5600" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news_yingdazhengquan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.153846">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/view/news_yingdazhengquan.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.038462">
+        <state vertical-scroll-proportion="0.0">
           <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="28.846153">
+        <state vertical-scroll-proportion="0.0">
           <caret line="31" column="54" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#h5#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -438,11 +723,205 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1098546">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.manifest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/_assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/_assets/css/themes/default/jquery.mobile-1.4.5.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="36.26858">
+          <caret line="2" column="129268" selection-start-line="2" selection-start-column="129268" selection-end-line="2" selection-end-column="129268" />
+          <folding>
+            <element signature="e#177#986#2" expanded="true" />
+            <element signature="e#1025#1983#2" expanded="true" />
+            <element signature="e#2026#3051#2" expanded="true" />
+            <element signature="e#3094#4119#2" expanded="true" />
+            <element signature="e#4160#5173#2" expanded="true" />
+            <element signature="e#5214#6228#2" expanded="true" />
+            <element signature="e#6269#7282#2" expanded="true" />
+            <element signature="e#7325#8350#2" expanded="true" />
+            <element signature="e#8393#9418#2" expanded="true" />
+            <element signature="e#9459#10473#2" expanded="true" />
+            <element signature="e#10512#11940#2" expanded="true" />
+            <element signature="e#11978#12785#2" expanded="true" />
+            <element signature="e#12823#13879#2" expanded="true" />
+            <element signature="e#13920#15273#2" expanded="true" />
+            <element signature="e#15315#16643#2" expanded="true" />
+            <element signature="e#16683#17855#2" expanded="true" />
+            <element signature="e#17896#18700#2" expanded="true" />
+            <element signature="e#18741#19546#2" expanded="true" />
+            <element signature="e#19587#20391#2" expanded="true" />
+            <element signature="e#20432#21237#2" expanded="true" />
+            <element signature="e#21325#22128#2" expanded="true" />
+            <element signature="e#22167#23421#2" expanded="true" />
+            <element signature="e#23460#24507#2" expanded="true" />
+            <element signature="e#24548#25638#2" expanded="true" />
+            <element signature="e#25678#26739#2" expanded="true" />
+            <element signature="e#26777#27794#2" expanded="true" />
+            <element signature="e#27831#28831#2" expanded="true" />
+            <element signature="e#28874#30432#2" expanded="true" />
+            <element signature="e#30473#31275#2" expanded="true" />
+            <element signature="e#31313#34344#2" expanded="true" />
+            <element signature="e#34382#36568#2" expanded="true" />
+            <element signature="e#36607#37451#2" expanded="true" />
+            <element signature="e#37489#38539#2" expanded="true" />
+            <element signature="e#38577#39742#2" expanded="true" />
+            <element signature="e#39784#40698#2" expanded="true" />
+            <element signature="e#40736#41725#2" expanded="true" />
+            <element signature="e#41763#42531#2" expanded="true" />
+            <element signature="e#42570#43315#2" expanded="true" />
+            <element signature="e#43359#44107#2" expanded="true" />
+            <element signature="e#44146#45574#2" expanded="true" />
+            <element signature="e#45612#46667#2" expanded="true" />
+            <element signature="e#46706#48154#2" expanded="true" />
+            <element signature="e#48195#49221#2" expanded="true" />
+            <element signature="e#49262#50604#2" expanded="true" />
+            <element signature="e#50644#51720#2" expanded="true" />
+            <element signature="e#51758#52813#2" expanded="true" />
+            <element signature="e#52851#53659#2" expanded="true" />
+            <element signature="e#53696#54760#2" expanded="true" />
+            <element signature="e#54798#56332#2" expanded="true" />
+            <element signature="e#56371#57242#2" expanded="true" />
+            <element signature="e#57329#58102#2" expanded="true" />
+            <element signature="e#58187#59109#2" expanded="true" />
+            <element signature="e#59198#60189#2" expanded="true" />
+            <element signature="e#60282#61285#2" expanded="true" />
+            <element signature="e#61378#62381#2" expanded="true" />
+            <element signature="e#62470#63462#2" expanded="true" />
+            <element signature="e#63551#64542#2" expanded="true" />
+            <element signature="e#64631#65623#2" expanded="true" />
+            <element signature="e#65716#66719#2" expanded="true" />
+            <element signature="e#66812#67815#2" expanded="true" />
+            <element signature="e#67900#69306#2" expanded="true" />
+            <element signature="e#69389#70160#2" expanded="true" />
+            <element signature="e#70243#71263#2" expanded="true" />
+            <element signature="e#71352#72666#2" expanded="true" />
+            <element signature="e#72757#74063#2" expanded="true" />
+            <element signature="e#74150#75283#2" expanded="true" />
+            <element signature="e#75372#76140#2" expanded="true" />
+            <element signature="e#76229#76998#2" expanded="true" />
+            <element signature="e#77087#77855#2" expanded="true" />
+            <element signature="e#77944#78713#2" expanded="true" />
+            <element signature="e#78891#79658#2" expanded="true" />
+            <element signature="e#79743#80975#2" expanded="true" />
+            <element signature="e#81060#82071#2" expanded="true" />
+            <element signature="e#82160#83228#2" expanded="true" />
+            <element signature="e#83315#84354#2" expanded="true" />
+            <element signature="e#84437#85432#2" expanded="true" />
+            <element signature="e#85513#86477#2" expanded="true" />
+            <element signature="e#86570#88106#2" expanded="true" />
+            <element signature="e#88195#88961#2" expanded="true" />
+            <element signature="e#89044#92053#2" expanded="true" />
+            <element signature="e#92136#94300#2" expanded="true" />
+            <element signature="e#94385#95196#2" expanded="true" />
+            <element signature="e#95279#96307#2" expanded="true" />
+            <element signature="e#96390#97533#2" expanded="true" />
+            <element signature="e#97624#98502#2" expanded="true" />
+            <element signature="e#98585#99535#2" expanded="true" />
+            <element signature="e#99618#100350#2" expanded="true" />
+            <element signature="e#100435#101144#2" expanded="true" />
+            <element signature="e#101239#101951#2" expanded="true" />
+            <element signature="e#102036#103413#2" expanded="true" />
+            <element signature="e#103496#104529#2" expanded="true" />
+            <element signature="e#104614#106026#2" expanded="true" />
+            <element signature="e#106115#107102#2" expanded="true" />
+            <element signature="e#107191#108511#2" expanded="true" />
+            <element signature="e#108621#109661#2" expanded="true" />
+            <element signature="e#109744#110763#2" expanded="true" />
+            <element signature="e#110846#111618#2" expanded="true" />
+            <element signature="e#111699#112741#2" expanded="true" />
+            <element signature="e#112824#114336#2" expanded="true" />
+            <element signature="e#114421#115253#2" expanded="true" />
+            <element signature="e#176153#176242#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/_assets/css/news_yingdazhengquan.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/news_yingdazhengquan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.528302">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8887015">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#h5#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#em#0;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#em#1;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#em#2;n#p#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
