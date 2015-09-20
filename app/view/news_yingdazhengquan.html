@@ -2,36 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>股票行情：英大证券(000045)</title>
     <link href="../_assets/css/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="../_assets/css/themes/default/jquery.mobile-1.4.5.min.css" type="text/css">
     <link rel="stylesheet" href="../_assets/css/news_yingdazhengquan.css" type="text/css"/>
     <script src="../_assets/js/jquery.js" type="text/javascript"></script>
     <script src="../_assets/js/jquery.mobile-1.4.5.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        $('#e1').live('pagebeforecreate', function (event) {
-            alert('Thispagewasjustinsertedintothedom!');
-        });
-
-
-    </script>
-    <script type="text/javascript">
-        $(function () {
-            $("#showBtn").click(function () {
-                showLoading();
-            });
-            $("#hideBtn").click(function () {
-                hideLoading();
-            });
-        });
-        function showLoading() {
-            $.mobile.loadingMessageTextVisible = true;
-            $.mobile.showPageLoadingMsg("a", "加载中...");
-        }
-        function hideLoading() {
-            $.mobile.hidePageLoadingMsg();
-        }
-    </script>
     <script id="popup-arrow-script">
 
         $.mobile.document.on("click", "#open-popupArrow", function (evt) {
@@ -60,9 +37,51 @@
                     $.mobile.loading("hide");
                 });
     </script>
+    <script type="application/javascript">
+
+        $(document).on("pageinit",function(){
+            //alert("触发 pageinit 事件 - 页面已初始化，DOM 已加载，jQuery Mobile 已完成页面增强。")
+            hideLoader();
+            setTimeout('hideLoader()',1000);
+        });
+        $(document).on("pagebeforecreate",function(){
+            //alert("触发 pagebeforecreate 事件 - 页面即将初始化。jQuery Mobile 仍未开始增强页面。");
+            //showLoader();
+            setTimeout('showLoader()',500);
+        });
+        $(document).on("pagecreate",function(){
+           // alert("触发 pagecreate 事件 - 已创建页面，但增强未完成。");
+        });
+
+        //setTimeout('showLoader()',500);
+        function showLoader (){
+            var $this = $(this),
+                    theme = $this.jqmData("theme") || $.mobile.loader.prototype.options.theme,
+                    msgText = $this.jqmData("msgtext") || $.mobile.loader.prototype.options.text,
+                    textVisible = $this.jqmData("textvisible") || $.mobile.loader.prototype.options.textVisible,
+                    textonly = !!$this.jqmData("textonly");
+            html = $this.jqmData("html") || "";
+            $.mobile.loading("show", {
+                text: msgText,
+                textVisible: textVisible,
+                theme: theme,
+                textonly: textonly,
+                html: html
+            });
+        }
+
+        function hideLoader(){
+            $.mobile.loading("hide");
+        }
+        window.onload=function () {
+//            hideLoader();
+           // $.mobile.loading("hide");
+            // setTimeout('hideLoader()',100);
+        }
+    </script>
 </head>
 <body>
-<div data-role="page" id="e1" name="e1">
+<div data-role="page" id="e1">
 
     <header data-role="header"><h5>个股页面</h5></header>
     <div data-role="content" class="ui-content">
