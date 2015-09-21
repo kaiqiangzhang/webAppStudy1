@@ -39,22 +39,22 @@
     </script>
     <script type="application/javascript">
 
-        $(document).on("pageinit",function(){
+        $(document).on("pageinit", function () {
             //alert("触发 pageinit 事件 - 页面已初始化，DOM 已加载，jQuery Mobile 已完成页面增强。")
             hideLoader();
-            setTimeout('hideLoader()',1000);
+            setTimeout('hideLoader()', 1000);
         });
-        $(document).on("pagebeforecreate",function(){
+        $(document).on("pagebeforecreate", function () {
             //alert("触发 pagebeforecreate 事件 - 页面即将初始化。jQuery Mobile 仍未开始增强页面。");
             //showLoader();
-            setTimeout('showLoader()',500);
+            setTimeout('showLoader()', 500);
         });
-        $(document).on("pagecreate",function(){
-           // alert("触发 pagecreate 事件 - 已创建页面，但增强未完成。");
+        $(document).on("pagecreate", function () {
+            // alert("触发 pagecreate 事件 - 已创建页面，但增强未完成。");
         });
 
         //setTimeout('showLoader()',500);
-        function showLoader (){
+        function showLoader() {
             var $this = $(this),
                     theme = $this.jqmData("theme") || $.mobile.loader.prototype.options.theme,
                     msgText = $this.jqmData("msgtext") || $.mobile.loader.prototype.options.text,
@@ -70,13 +70,34 @@
             });
         }
 
-        function hideLoader(){
+        function hideLoader() {
             $.mobile.loading("hide");
         }
-        window.onload=function () {
+        window.onload = function () {
 //            hideLoader();
-           // $.mobile.loading("hide");
+            // $.mobile.loading("hide");
             // setTimeout('hideLoader()',100);
+        }
+    </script>
+    <script type="text/javascript">
+        function showLoader() {
+            var $this = $(this),
+                    theme = $this.jqmData("theme") || $.mobile.loader.prototype.options.theme,
+                    msgText = $this.jqmData("msgtext") || $.mobile.loader.prototype.options.text,
+                    textVisible = $this.jqmData("textvisible") || $.mobile.loader.prototype.options.textVisible,
+                    textonly = !!$this.jqmData("textonly");
+            html = $this.jqmData("html") || "";
+            $.mobile.loading("show", {
+                text: msgText,
+                textVisible: textVisible,
+                theme: theme,
+                textonly: textonly,
+                html: html
+            });
+        }
+
+        function hideLoader() {
+            $.mobile.loading("hide");
         }
     </script>
 </head>
@@ -85,7 +106,65 @@
 
     <header data-role="header"><h5>个股页面</h5></header>
     <div data-role="content" class="ui-content">
+
         <h3>英大证券，今日下跌-2.98</h3>
+        <a href="#popupNested" data-rel="popup"
+           class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-icon-bars ui-btn-icon-left ui-btn-b"
+           data-transition="pop">Choose a creature...</a>
+        <div data-role="popup" id="popupNested" data-theme="b">
+            <div data-role="collapsibleset" data-theme="b" data-content-theme="b" data-collapsed-icon="arrow-r"
+                 data-expanded-icon="arrow-d" style="margin:0; width:250px;">
+                <div data-role="collapsible" data-inset="true">
+                            <h2>Farm animals</h2>
+                    <ul data-role="listview">
+                        <!--<li><a onclick="javascript:showLoader();return false;" href="#" data-rel="dialog">显示loading动画</a></li>-->
+                        <li><a href="javascript:showLoader();" data-rel="dialog">显示loading动画</a></li>
+                        <li><a href="javascript:hideLoader();" data-rel="dialog">隐藏loading动画</a></li>
+                    </ul>
+                </div>
+                <div data-role="collapsible" data-inset="true">
+                            <h2>Pets</h2>
+                    <ul data-role="listview">
+                        <li><a href="#" data-rel="dialog">Cat</a></li>
+                        <li><a href="#" data-rel="dialog">Dog</a></li>
+                        <li><a href="#" data-rel="dialog">Iguana</a></li>
+                        <li><a href="#" data-rel="dialog">Mouse</a></li>
+                    </ul>
+                </div>
+                <div data-role="collapsible" data-inset="true"> <h2>Ocean Creatures</h2>
+                    <ul data-role="listview">
+                        <li><a href="#" data-rel="dialog">Fish</a></li>
+                        <li><a href="#" data-rel="dialog">Octopus</a></li>
+                        <li><a href="#" data-rel="dialog">Shark</a></li>
+                        <li><a href="#" data-rel="dialog">Starfish</a></li>
+                    </ul>
+                </div>
+                <div data-role="collapsible" data-inset="true">
+                            <h2>Wild Animals</h2>
+                    <ul data-role="listview">
+                        <li><a href="#" data-rel="dialog">Lion</a></li>
+                        <li><a href="#" data-rel="dialog">Monkey</a></li>
+                        <li><a href="#" data-rel="dialog">Tiger</a></li>
+                        <li><a href="#" data-rel="dialog">Zebra</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- /popup -->
+        <!-- -->
+        <a href="#popupMenu" data-rel="popup" data-transition="slideup"
+           class="ui-btn ui-corner-all ui-shadow ui-btn-inline ui-icon-gear ui-btn-icon-left ui-btn-a">Actions...</a>
+
+        <div data-role="popup" id="popupMenu" data-theme="b">
+            <ul data-role="listview" data-inset="true" style="min-width:210px;">
+                <li data-role="list-divider">Choose an action</li>
+                <li><a href="#">View details</a></li>
+                <li><a href="#">Edit</a></li>
+                <li><a href="#">Disable</a></li>
+                <li><a href="#">Delete</a></li>
+            </ul>
+        </div>
+
         <button class="show-page-loading-msg" id="showBtn">
             显示Loading
         </button>
